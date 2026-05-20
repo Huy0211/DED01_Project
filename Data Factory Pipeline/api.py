@@ -5,7 +5,7 @@ import numpy as np
 app = Flask(__name__)
 
 # API Key
-API_KEY = "ded01c9-8b1e-4c3a-9f1e-2b5a6c7d8e9f"
+API_KEY = "-----------"
 
 # -----------------------------------
 # Helper function
